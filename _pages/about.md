@@ -23,7 +23,7 @@ I'm a (very-soon-to-be-graduated) computer science PhD candidate at the [Univers
 
 The title of my PhD thesis is "Mathematical optimisation for vision-based problems in [space domain awareness](https://www.marcusholzinger.com/space-situational-or-domain-awareness-know-the-difference/)", which is the shortest TL;DR about my recent research activities. 
 
-Previously, I've worked on the [scene text detection]() and [simultaneously localisation and mapping (SLAM)]() problems. Currently, I'm interested in vision-related space problems, optimisation in general, and 
+Previously, I've worked on the [scene text detection]() and [simultaneously localisation and mapping (SLAM)]() problems. Currently, I'm interested in vision-related space and (more generally) computer vision problems, primarily leveraging optimisation-based and the (wild-wild-west) deep learning methods.
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
