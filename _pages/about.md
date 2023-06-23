@@ -8,11 +8,11 @@ permalink: /
 profile:
   align: right
   image: Chee-Kheng_Chng.jpg
-  image_circular: false # crops the image to make it circular
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  image_circular: true # crops the image to make it circular
+  #address: >
+  #  <p>555 your office number</p>
+  #  <p>123 your address street</p>
+  #  <p>Your City, State 12345</p>
 
 news: true  # includes a list of news items
 latest_posts: true  # includes a list of the newest posts
@@ -22,6 +22,8 @@ social: true  # includes social icons at the bottom of the page
 I'm a (very-soon-to-be-graduated) computer science PhD candidate at the [University of Adelaide](https://www.adelaide.edu.au). I'm also affliated with [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml). 
 
 The title of my PhD thesis is "Mathematical optimisation for vision-based problems in [space domain awareness](https://www.marcusholzinger.com/space-situational-or-domain-awareness-know-the-difference/)", which is the shortest TL;DR about my recent research activities. 
+
+Previously, I've worked on the [scene text detection]() and [simultaneously localisation and mapping (SLAM)]() problems. Currently, I'm interested in vision-related space problems, optimisation in general, and 
 
 
 Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
