@@ -25,6 +25,7 @@ The title of my PhD thesis is "Mathematical optimisation for vision-based proble
 
 Previously, I've worked on the [scene text detection](https://paperswithcode.com/task/scene-text-detection) and [simultaneously localisation and mapping (SLAM)](https://paperswithcode.com/task/simultaneous-localization-and-mapping) problems. Currently, I'm interested in vision-related space and (more generally) computer vision problems, primarily leveraging optimisation-based and deep learning methods.
 
+Yo Yo
 
 
 <!--
