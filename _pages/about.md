@@ -19,11 +19,11 @@ latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
-I'm a (very-soon-to-be-graduated) computer science PhD candidate at the [University of Adelaide](https://www.adelaide.edu.au). My supervisor is [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/). I'm also affliated with [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml). 
+I'm a (very-soon-to-be-graduated) computer science PhD candidate at the [University of Adelaide](https://www.adelaide.edu.au). My supervisor is [Tat-Jun Chin](https://cs.adelaide.edu.au/~ssl/author/tat-jun-chin/). I'm also affiliated with [Australian Institute for Machine Learning (AIML)](https://www.adelaide.edu.au/aiml). 
 
 The title of my PhD thesis is "Mathematical optimisation for vision-based problems in [space domain awareness](https://www.marcusholzinger.com/space-situational-or-domain-awareness-know-the-difference/)", which is the shortest TL;DR about my recent research activities. 
 
-Previously, I've worked on the [scene text detection](https://paperswithcode.com/task/scene-text-detection) and [simultaneously localisation and mapping (SLAM)](https://paperswithcode.com/task/simultaneous-localization-and-mapping) problems. Currently, I'm interested in vision-related space and (more generally) computer vision problems, primarily leveraging optimisation-based and deep learning methods.
+Previously, I've worked on [scene text detection](https://paperswithcode.com/task/scene-text-detection) and [simultaneous localisation and mapping (SLAM)](https://paperswithcode.com/task/simultaneous-localization-and-mapping) problems. Currently, I'm interested in vision-related space and (more generally) computer vision problems, primarily leveraging optimisation-based and deep learning methods.
 
 My Google scholar is [here](https://scholar.google.com.au/citations?user=ca90ZhoAAAAJ&hl=en).
 
