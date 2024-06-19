@@ -1,3 +1,4 @@
+
 ---
 layout: page
 title: Projects
@@ -9,7 +10,8 @@ display_categories: [work, fun]
 horizontal: false
 ---
 
-<!-- pages/projects.md -->
+<!-- pages/projects.md 
+
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
   <!-- Display categorized projects -->
@@ -52,7 +54,10 @@ horizontal: false
     {%- for project in sorted_projects -%}
       {% include projects.html %}
     {%- endfor %}
+
+    
   </div>
   {%- endif -%}
 {%- endif -%}
 </div>
+-->
