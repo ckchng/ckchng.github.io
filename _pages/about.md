@@ -23,7 +23,7 @@ I'm a postdoctoral researcher at the [Australian Institute for Machine Learning]
 
 The title of my PhD thesis is "Mathematical optimisation for vision-based problems in [space domain awareness](https://www.marcusholzinger.com/space-situational-or-domain-awareness-know-the-difference/)", which is the shortest TL;DR about my recent research activities. 
 
-Previously, I've worked on [scene text detection](https://paperswithcode.com/task/scene-text-detection) and [simultaneous localisation and mapping (SLAM)](https://paperswithcode.com/task/simultaneous-localization-and-mapping) problems. Currently, I'm interested in vision-related space (AI4SPACE), and (more generally) computer vision problems, primarily leveraging optimisation-based and deep learning methods.
+Previously, I've worked on [scene text detection](https://paperswithcode.com/task/scene-text-detection) and [simultaneous localisation and mapping (SLAM)](https://paperswithcode.com/task/simultaneous-localization-and-mapping) problems. Currently, I'm interested in vision-related space problems, i.e., [AI4SPACE](https://aiforspace.github.io/2024/).
 
 My Google Scholar is [here](https://scholar.google.com.au/citations?user=ca90ZhoAAAAJ&hl=en).
 
