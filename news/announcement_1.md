@@ -8,3 +8,4 @@ related_posts: false
 
 A simple inline announcement.
 --->
+Our work on crater-based camera pose estimation has been accepted to the AI4SPACE workshop in CVPR 2024!
